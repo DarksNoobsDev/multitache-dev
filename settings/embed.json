@@ -1,0 +1,13 @@
+{
+  "embed": {
+    "head": {
+      "text": "𝓜𝓾𝓵𝓽𝓲𝓣𝓪𝓬𝓱𝓮 ᴮᵒᵗ#2783 | Versions 1.0"
+    },
+    "footer": {},
+    "link": "discord.gg/NotACoolUser",
+
+    "error": {
+      "onCooldown": ":x: Il faut encore attendre %{timeleft}% seconde(s) pour pouvoir éxécuter cette commandes !"
+    }
+  }
+}
