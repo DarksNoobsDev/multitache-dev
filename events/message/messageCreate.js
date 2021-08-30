@@ -13,6 +13,7 @@ module.exports = async (client, message) => {
     .setAuthor(`${client.user.username}`)
     .setFooter(config.embed.head.text)
     .setTitle(`🔰 Informations | ${client.user.tag}`)
+    .setColor(color.purple)
     .setDescription(`Hello, je suis le bot ${client.user.tag}, je suis a ton service, mais mes commandes ne fonctionnes pas dans les message privé.`)
     return message.channel.send({ embeds: [Embed] })
   }
