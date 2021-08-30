@@ -8,7 +8,7 @@ const moment = require('moment')
 module.exports.run = async (client, message, args) => {
  const Embed = new MessageEmbed()
   .setTitle(`:regional_indicator_c: :regional_indicator_l: :regional_indicator_i: :regional_indicator_c: :regional_indicator_k:    :regional_indicator_i: :regional_indicator_c: :regional_indicator_i:`)
-  .setURL("https://www.discord.com/dhfuiq")
+  .setURL("https://discord.gg/2wDu9z2TeJ")
   .setColor(color.orange)
  message.channel.send({ embeds: [Embed] })
 }

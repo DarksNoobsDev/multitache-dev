@@ -9,7 +9,8 @@ module.exports.run = async (client, message, args) => {
   if(!channelByFetch) return message.reply(`Veuilliez entrer un id de salon valides !`);
   channelByFetch.setName(NameArgs)
   const Embed = new MessageEmbed()
-  .setTitle(`Le salon/fils a bien été rennomé en ${channelByFetch}`)
+  .setTitle(`Le salon/fils a bien été rennomé en __${NameArgs}__`)
+  .setColor(require('../../settings/color.json').yellow)
   message.channel.send({ embeds: [Embed] })
 }
 
