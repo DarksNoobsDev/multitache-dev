@@ -1,13 +1,13 @@
 <h1 align="center">
     <br>
-    <img src="https://cdn.discordapp.com/app-icons/779968259671457792/184465ca744886f62b39f100b52de9a0.png?"height="200">
+    <img src="https://cdn.discordapp.com/app-icons/866998645365669898/184465ca744886f62b39f100b52de9a0.png?"height="200">
     <br>
     <p>Multitache
  - Multi-fonctions</p>
 <h1>
 <p align="center">
-    <a href="https://github.com/LachlanDev/TikTok-Utilities/releases">
-        <img alt="GitHub release" src="https://img.shields.io/github/release/LachlanDev/TikTok-Utilities.svg">
+    <a href="https://github.com/DarksNoobsDev/multitache-dev">
+        Le github  officiel
     </a>
 </p>
 
@@ -25,8 +25,10 @@ Un bot discord 100% français, développer par des français, 100% open-source d
 ## Preview
 ### Help commands
 <img src="https://i.imgur.com/iQ6Pc7g.png" height="300">
+
 ### Help commands (With info)
 <img src="https://i.imgur.com/tQPMVPg.png" height="300">
+
 ## Contribute
 If you would like to contribute to the project please open a PR (Pull Request) clearly showing your changes.
 
@@ -36,4 +38,5 @@ If you have any issues feel free to open an issue or join the [Discord Server.](
 ## Extra
 __Created by DarksNoobs#4375__
 * [Twitter](https://twitter.com/DarksNoobsG)
+* [Discord](https://discord.gg/2wDu9z2TeJ)
 </br>
