@@ -1,13 +1,13 @@
 <h1 align="center">
     <br>
-    <img src="https://cdn.discordapp.com/app-icons/866998645365669898/184465ca744886f62b39f100b52de9a0.png?"height="200">
+    <img src="https://cdn.discordapp.com/avatars/866998645365669898/4f48c8517ef5e830ed310ac348a37a5f.png?size=128"height="200">
     <br>
     <p>Multitache
  - Multi-fonctions</p>
 <h1>
 <p align="center">
     <a href="https://github.com/DarksNoobsDev/multitache-dev">
-        Le github  officiel
+       <img alt="Github Realease" src="https://img.shields.io/github/release/DarksNoobsDev/multitache-dev.svg">
     </a>
 </p>
 
