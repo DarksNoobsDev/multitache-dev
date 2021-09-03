@@ -1,0 +1,9 @@
+{
+ "token": "ODY2OTk4NjQ1MzY1NjY5ODk4.YPataQ.oxqoqKQ48v5_GLPuEWYwn1Q6nis",
+ "dir": "./commands",
+ "defaultPrefix": "m!",
+ "db": "mongodb://localhost:27017/multidb",
+ "defaultSettings": {
+  "log-channel": "bot-log"
+ }
+}

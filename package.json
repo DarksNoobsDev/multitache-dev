@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.1.0",
+    "easy-number-formatter": "^1.0.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.4",
+    "ms": "^2.1.3",
+    "tiktok-scraper": "^1.4.36"
+  },
+  "name": "multiclient",
+  "version": "0.5",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "DarksNoobs",
+  "license": "ISC",
+  "description": ""
+}
