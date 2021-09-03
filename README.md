@@ -18,19 +18,17 @@ Un bot discord 100% français, développer par des français, 100% open-source d
 * To see all bot commands, type the help commands.
 
 ## Changelog
-* **0.3 (Current)** - Added eval, detailledeval and owners commands (TiktokProfil viewer.).
+* **0.5 (Current)** - Added user, guild database + ref....
+* **0.4** - Modified message, and add mongodb.
+* **0.3** - Added eval, detailledeval and owners commands (TiktokProfil viewer.).
 * **0.2 (Big update)** - Added 5 others commands, with help, permissions, aliases.
 * **0.1** - The 1rd realease, add ping, and cooldowns options.
 
 ## Preview
 ### Help commands (v0.3.0.1)
 <img src="https://i.imgur.com/iQ6Pc7g.png" height="300">
-<<<<<<< HEAD:README
-### Help commands (With info) (v0.3.0.2)
-=======
 
-### Help commands (With info)
->>>>>>> 15ef1a4995687e9c6bb69506360ccc7025a5a1df:README.md
+### Help commands (With info) (v0.3.0.2)
 <img src="https://i.imgur.com/tQPMVPg.png" height="300">
 
 ## Contribute
